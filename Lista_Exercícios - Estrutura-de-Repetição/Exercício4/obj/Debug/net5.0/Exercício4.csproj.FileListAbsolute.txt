@@ -1,0 +1,16 @@
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\bin\Debug\net5.0\Exercício4.exe
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\bin\Debug\net5.0\Exercício4.deps.json
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\bin\Debug\net5.0\Exercício4.runtimeconfig.json
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\bin\Debug\net5.0\Exercício4.runtimeconfig.dev.json
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\bin\Debug\net5.0\Exercício4.dll
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\bin\Debug\net5.0\ref\Exercício4.dll
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\bin\Debug\net5.0\Exercício4.pdb
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\obj\Debug\net5.0\Exercício4.csprojAssemblyReference.cache
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\obj\Debug\net5.0\Exercício4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\obj\Debug\net5.0\Exercício4.AssemblyInfoInputs.cache
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\obj\Debug\net5.0\Exercício4.AssemblyInfo.cs
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\obj\Debug\net5.0\Exercício4.csproj.CoreCompileInputs.cache
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\obj\Debug\net5.0\Exercício4.dll
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\obj\Debug\net5.0\ref\Exercício4.dll
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\obj\Debug\net5.0\Exercício4.pdb
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Estrutura-de-Repetição\Exercício4\obj\Debug\net5.0\Exercício4.genruntimeconfig.cache

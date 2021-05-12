@@ -1,0 +1,16 @@
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\bin\Debug\net5.0\Exercício1.exe
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\bin\Debug\net5.0\Exercício1.deps.json
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\bin\Debug\net5.0\Exercício1.runtimeconfig.json
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\bin\Debug\net5.0\Exercício1.runtimeconfig.dev.json
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\bin\Debug\net5.0\Exercício1.dll
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\bin\Debug\net5.0\ref\Exercício1.dll
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\bin\Debug\net5.0\Exercício1.pdb
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\obj\Debug\net5.0\Exercício1.csprojAssemblyReference.cache
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\obj\Debug\net5.0\Exercício1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\obj\Debug\net5.0\Exercício1.AssemblyInfoInputs.cache
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\obj\Debug\net5.0\Exercício1.AssemblyInfo.cs
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\obj\Debug\net5.0\Exercício1.csproj.CoreCompileInputs.cache
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\obj\Debug\net5.0\Exercício1.dll
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\obj\Debug\net5.0\ref\Exercício1.dll
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\obj\Debug\net5.0\Exercício1.pdb
+C:\Users\Gabs\OneDrive\Documentos\Lista_exercícios - Condicionais\Exercício1\obj\Debug\net5.0\Exercício1.genruntimeconfig.cache

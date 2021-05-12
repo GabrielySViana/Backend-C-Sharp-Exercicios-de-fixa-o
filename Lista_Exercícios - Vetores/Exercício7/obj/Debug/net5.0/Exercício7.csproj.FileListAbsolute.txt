@@ -1,0 +1,16 @@
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\bin\Debug\net5.0\Exercício7.exe
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\bin\Debug\net5.0\Exercício7.deps.json
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\bin\Debug\net5.0\Exercício7.runtimeconfig.json
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\bin\Debug\net5.0\Exercício7.runtimeconfig.dev.json
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\bin\Debug\net5.0\Exercício7.dll
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\bin\Debug\net5.0\ref\Exercício7.dll
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\bin\Debug\net5.0\Exercício7.pdb
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\obj\Debug\net5.0\Exercício7.csprojAssemblyReference.cache
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\obj\Debug\net5.0\Exercício7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\obj\Debug\net5.0\Exercício7.AssemblyInfoInputs.cache
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\obj\Debug\net5.0\Exercício7.AssemblyInfo.cs
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\obj\Debug\net5.0\Exercício7.csproj.CoreCompileInputs.cache
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\obj\Debug\net5.0\Exercício7.dll
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\obj\Debug\net5.0\ref\Exercício7.dll
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\obj\Debug\net5.0\Exercício7.pdb
+C:\Users\Gabs\OneDrive\Documentos\Lista_Exercícios - Vetores\Exercício7\obj\Debug\net5.0\Exercício7.genruntimeconfig.cache
